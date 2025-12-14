@@ -30,7 +30,6 @@ banking-service
 
 ##  How to run
 1. Clone the repository:
-```bash
 git clone https://github.com/AyoubeJarhni1/test-banking-service.git
 2. Navigate into the project folder:
 cd banking-service
