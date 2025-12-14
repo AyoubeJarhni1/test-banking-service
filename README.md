@@ -28,6 +28,8 @@ banking-service
 │ └── AccountTest.java
 └── pom.xml
 
+
+
 ##  How to run
 1. Clone the repository:
 git clone https://github.com/AyoubeJarhni1/test-banking-service.git
