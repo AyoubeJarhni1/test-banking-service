@@ -13,9 +13,15 @@ This is a simple banking service implemented in Java, fulfilling the requirement
 
 ##  Structure du projet
 
+
+
 banking-service
 ├── src
-│ ├── main/java/ma/skypay/banking
+│ ├── main
+│ │ └── java
+│ │ └── ma
+│ │ └── skypay
+│ │ └── banking
 │ │ ├── service
 │ │ │ ├── AccountService.java
 │ │ │ └── Account.java
@@ -24,7 +30,12 @@ banking-service
 │ │ └── exception
 │ │ ├── InvalidAmountException.java
 │ │ └── InsufficientBalanceException.java
-│ └── test/java/ma/skypay/banking/service
+│ └── test
+│ └── java
+│ └── ma
+│ └── skypay
+│ └── banking
+│ └── service
 │ └── AccountTest.java
 └── pom.xml
 
