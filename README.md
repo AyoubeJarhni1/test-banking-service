@@ -11,34 +11,6 @@ This is a simple banking service implemented in Java, fulfilling the requirement
 - Use of exceptions for invalid operations
 - Unit tests for main functionalities
 
-##  Structure du projet
-
-
-
-banking-service
-├── src
-│ ├── main
-│ │ └── java
-│ │ └── ma
-│ │ └── skypay
-│ │ └── banking
-│ │ ├── service
-│ │ │ ├── AccountService.java
-│ │ │ └── Account.java
-│ │ ├── model
-│ │ │ └── Transaction.java
-│ │ └── exception
-│ │ ├── InvalidAmountException.java
-│ │ └── InsufficientBalanceException.java
-│ └── test
-│ └── java
-│ └── ma
-│ └── skypay
-│ └── banking
-│ └── service
-│ └── AccountTest.java
-└── pom.xml
-
 
 
 ##  How to run
